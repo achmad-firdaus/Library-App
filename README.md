@@ -57,10 +57,11 @@ Structure Databse, this only pk and index unique iam not use pk
 
 How Login ? </br>
 Default User login :</br>
-User: Admin1 </br>
-Password: Admin1TS </br>
-User: Officer1 </br>
-Password: Officer1TS </br>
-User: Member1 </br>
-Password: Member1TS </br>
+User: Admin1A0014 </br>
+Password: Admin1A0014TS </br>
+User: Officer1A0018 </br>
+Password: Officer1A0018TS </br>
+User: Member1M0012 </br>
+Password: Member1M0012TS </br>
+NOTE: Password default in application (username + TS) if username Member1M0012 and your password Member1M0012TS </br>
 Link Demo: https://thirtyseven-v1.herokuapp.com/Officer
