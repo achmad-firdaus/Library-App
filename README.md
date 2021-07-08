@@ -16,6 +16,10 @@ Structure Databse, this only pk and index unique, iam not use pk
   <img src="https://user-images.githubusercontent.com/77251566/124686783-e67d5e00-defd-11eb-858f-785989e17f85.png">
 </p>
 
+Report
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77251566/124894093-88d43900-e005-11eb-9564-1f54af2bb9d3.png">
+</p>
 
 
 Note: </br>
