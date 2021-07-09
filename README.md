@@ -1,4 +1,4 @@
-# Library-App
+# Library-App Codeigniter - Mysql
 Welcome documentation for library app
 
 ![image](https://user-images.githubusercontent.com/77251566/124684403-40c7f000-def9-11eb-99d1-f8a8e2d0399f.png)
