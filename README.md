@@ -1,8 +1,7 @@
 # Library-App Codeigniter - Mysql
 Welcome documentation for library app
 
-![image](https://user-images.githubusercontent.com/77251566/124684403-40c7f000-def9-11eb-99d1-f8a8e2d0399f.png)
-
+![1628255470](https://user-images.githubusercontent.com/77251566/129654763-35529622-9963-4d3e-9e54-e768634bed82.png)
 
 Menu List and Role user access
 
@@ -66,18 +65,19 @@ Setting
 </p>
 
 
-Note: </br>
-Default User login :</br>
-Admin</br>
-User: Admin1A0014 </br>
-Password: Admin1A0014TS </br>
-Staff (Officer)</br>
-User: Officer1A0018 </br>
-Password: Officer1A0018TS </br>
-Member</br>
-User: Member1M0012 </br>
-Password: Member1M0012TS </br>
-<br>
+User:<br>
+Admin
+
+    User: Admin1A0014 
+    Password: Admin1A0014TS 
+Staff (Officer)
+
+    User: Officer1A0018 
+    Password: Officer1A0018TS 
+Member
+
+    User: Member1M0012 
+    Password: Member1M0012TS 
 if the user is not activate than you can do enable user in application use user admin </br>
 Password default in application (username + TS) if username Member1M0012 and your password Member1M0012TS </br>
 (Untuk demo tidak bisa Export Pdf dan Upload Foto) </br>
