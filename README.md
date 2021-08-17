@@ -3,6 +3,23 @@ Welcome documentation for library app
 
 ![1628255470](https://user-images.githubusercontent.com/77251566/129654763-35529622-9963-4d3e-9e54-e768634bed82.png)
 
+Berisi tentang:
+
+    o	Page: Dashboard, Members, Officer, Books, Loan, Return, Report, Setting, Log Out
+            Dashboard : Berisi total pada setiap tabel dan top 5 teratas data yang terbaru,
+            Member    : Management user dan disable enable member active,
+            Officer   : Management user dan disable enable officer active,
+            Book      : Management books,
+            Loan      : Peminjaman buku maksimal 3 buku, dilengkapi dengan tanggal pengembalian,
+            Return    : Pengembalian buku, dan melihat denda berhari bila melewati jatuh tempo,
+            Report
+              Loan    : Melihat buku yang sudah dipinjam dan estimasi berapa lama serta denda (export pdf),
+              Returned: Melihat buku yang sudah dikembalikan dan estimasi peminjaman buku serta denda (export pdf),
+            Setting   : Setting profile perpustakaan, setting denda perhari berapa, mereset password
+            Log Out   : keluar applikasi,
+    o	Memiliki management user role yang cukup baik,
+    o	Export Pdf.
+
 Menu List and Role user access
 
 <p align="center">
